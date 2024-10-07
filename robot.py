@@ -5,7 +5,6 @@ Representation of a simple robot used in the assignments
 import numpy as np
 from matplotlib import pyplot as plt
 
-
 class Robot:
 
     def __init__(self, vertices):
