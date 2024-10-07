@@ -1,6 +1,4 @@
 # swarmGuidance
 swarm guidance project for Robot Motion Planning
-Let's see if this works
 
-
-ples
+This is the repository swarmGuidance. Collaborators are Gabriel, Jimena, and Jordan. 
