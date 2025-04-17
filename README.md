@@ -1,7 +1,4 @@
 # swarmGuidance
 swarm guidance project for Robot Motion Planning
 
-This is the repository swarmGuidance. Collaborators are Gabriel, Jimena, and Jordan. 
-For the python interpreter, 3.10.10 is what is currently working for me (Jordan)
-if you run the command -> pip install -r requirements.txt
-should get you the libraries you need so far
+swarmGuidance is a final project for the class Robot Motion Planning. The objective of our project was to have two quick agents spread across a partially known (using a defualt floor plan) semi-dynamic environment and detect obstacles. This known environment would then be used by a slower agent to path plan using the A* algorithm for a quick and optimal path, and make its way back to it's starting position. 
